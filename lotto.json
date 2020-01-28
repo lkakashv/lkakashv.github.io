@@ -1,31 +1,59 @@
 [{
 	"id": 5,
 	"name": "Irish Lotto",
+	"numbers": "10, 16, 17, 23, 35, 43, 47, 49, 50, 22, 2, 47",
+	"extranumbers": "",
+	"reccomendation": "Reccomended to choose 4 even and 3 odd",
+	"extragamenumbers": "Iris Lotto plus1:10, 16, 17, 23, 35, 43, 47, 49, 50, 22, 2, 47, Irish Lotto Plus2: 10, 16, 17, 23, 35, 43, 47, 49, 50, 22, 2, 47",
+	"extrainfo": "no extra information",
+	"updateddate": "data fetched: 2020-01-28",
+	"lottodate" : "numbers generated: 2020-01-26"
 	"year": "2020",
 	"image": "",
 	"created_at": "2019-10-06T17:55:21.374Z",
 	"updated_at": "2019-10-06T17:55:21.374Z"
 }, {
-	"id": 1,
-	"name": "Irish Lotto Plus 1",
+	"id": 5,
+	"name": "Irish Lotto",
+	"numbers": "10, 16, 17, 23, 35, 43, 47, 49, 50, 22, 2, 47",
+	"extranumbers": "",
+	"reccomendation": "Reccomended to choose 4 even and 3 odd",
+	"extragamenumbers": "Iris Lotto plus1:10, 16, 17, 23, 35, 43, 47, 49, 50, 22, 2, 47, Irish Lotto Plus2: 10, 16, 17, 23, 35, 43, 47, 49, 50, 22, 2, 47",
+	"extrainfo": "no extra information",
+	"updateddate": "data fetched: 2020-01-28",
+	"lottodate" : "numbers generated: 2020-01-26"
 	"year": "2020",
 	"image": "",
-	"created_at": "2019-10-06T15:26:36.675Z",
-	"updated_at": "2019-10-06T18:05:31.649Z"
+	"created_at": "2019-10-06T17:55:21.374Z",
+	"updated_at": "2019-10-06T17:55:21.374Z"
 }, {
-	"id": 4,
-	"name": " Irish Lotto Plus 2 ",
+	"id": 5,
+	"name": "Irish Lotto",
+	"numbers": "10, 16, 17, 23, 35, 43, 47, 49, 50, 22, 2, 47",
+	"extranumbers": "",
+	"reccomendation": "Reccomended to choose 4 even and 3 odd",
+	"extragamenumbers": "Iris Lotto plus1:10, 16, 17, 23, 35, 43, 47, 49, 50, 22, 2, 47, Irish Lotto Plus2: 10, 16, 17, 23, 35, 43, 47, 49, 50, 22, 2, 47",
+	"extrainfo": "no extra information",
+	"updateddate": "data fetched: 2020-01-28",
+	"lottodate" : "numbers generated: 2020-01-26"
 	"year": "2020",
 	"image": "",
-	"created_at": "2019-10-06T15:27:38.123Z",
-	"updated_at": "2019-10-06T18:05:50.242Z"
+	"created_at": "2019-10-06T17:55:21.374Z",
+	"updated_at": "2019-10-06T17:55:21.374Z"
 }, {
-	"id": 6,
-	"name": "Mega Millions ",
-	"year": "2008",
+	"id": 5,
+	"name": "Irish Lotto",
+	"numbers": "10, 16, 17, 23, 35, 43, 47, 49, 50, 22, 2, 47",
+	"extranumbers": "",
+	"reccomendation": "Reccomended to choose 4 even and 3 odd",
+	"extragamenumbers": "Iris Lotto plus1:10, 16, 17, 23, 35, 43, 47, 49, 50, 22, 2, 47, Irish Lotto Plus2: 10, 16, 17, 23, 35, 43, 47, 49, 50, 22, 2, 47",
+	"extrainfo": "no extra information",
+	"updateddate": "data fetched: 2020-01-28",
+	"lottodate" : "numbers generated: 2020-01-26"
+	"year": "2020",
 	"image": "",
-	"created_at": "2019-10-06T18:06:12.933Z",
-	"updated_at": "2019-10-06T18:06:12.933Z"
+	"created_at": "2019-10-06T17:55:21.374Z",
+	"updated_at": "2019-10-06T17:55:21.374Z"
 }, {
 	"id": 7,
 	"name": "Test Lotto 1",

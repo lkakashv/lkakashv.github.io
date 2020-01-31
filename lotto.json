@@ -13,12 +13,12 @@
 	"created_at": "2019-10-06T17:55:21.374Z",
 	"updated_at": "2019-10-06T17:55:21.374Z"
 }, {
-	"id": 5,
-	"name": "Irish Lotto",
+	"id": 6,
+	"name": "Mega Millions",
 	"numbers": "10, 16, 17, 23, 35, 43, 47, 49, 50, 22, 2, 47",
 	"extranumbers": "9, 19",
 	"reccomendation": "Reccomended to choose 4 even and 3 odd",
-	"extragamenumbers": "Iris Lotto plus1:10, 16, 17, 23, 35, 43, 47, 49, 50, 22, 2, 47, Irish Lotto Plus2: 10, 16, 17, 23, 35, 43, 47, 49, 50, 22, 2, 47",
+	"extragamenumbers": "MegaPlus:10, 16, 17, 23, 35, 43, 47, 49, 50, 22, 2, 47",
 	"extrainfo": "no extra information",
 	"updateddate": "data fetched: 2020-01-28",
 	"lottodate" : "numbers generated: 2020-01-26",
@@ -27,12 +27,12 @@
 	"created_at": "2019-10-06T17:55:21.374Z",
 	"updated_at": "2019-10-06T17:55:21.374Z"
 }, {
-	"id": 5,
-	"name": "Irish Lotto",
+	"id": 7,
+	"name": "Euro Millions",
 	"numbers": "10, 16, 17, 23, 35, 43, 47, 49, 50, 22, 2, 47",
 	"extranumbers": "3, 4",
 	"reccomendation": "Reccomended to choose 4 even and 3 odd",
-	"extragamenumbers": "Iris Lotto plus1:10, 16, 17, 23, 35, 43, 47, 49, 50, 22, 2, 47, Irish Lotto Plus2: 10, 16, 17, 23, 35, 43, 47, 49, 50, 22, 2, 47",
+	"extragamenumbers": "No Extra Games for this Lotto",
 	"extrainfo": "no extra information",
 	"updateddate": "data fetched: 2020-01-28",
 	"lottodate" : "numbers generated: 2020-01-26",
@@ -41,12 +41,12 @@
 	"created_at": "2019-10-06T17:55:21.374Z",
 	"updated_at": "2019-10-06T17:55:21.374Z"
 }, {
-	"id": 5,
-	"name": "Irish Lotto",
+	"id": 8,
+	"name": "German Lotto",
 	"numbers": "10, 16, 17, 23, 35, 43, 47, 49, 50, 22, 2, 47",
 	"extranumbers": "No Extra Numbers for This Lotto",
 	"reccomendation": "Reccomended to choose 4 even and 3 odd",
-	"extragamenumbers": "Iris Lotto plus1:10, 16, 17, 23, 35, 43, 47, 49, 50, 22, 2, 47, Irish Lotto Plus2: 10, 16, 17, 23, 35, 43, 47, 49, 50, 22, 2, 47",
+	"extragamenumbers": "German extra Game:10, 16, 17, 23, 35, 43, 47, 49, 50, 22, 2, 47",
 	"extrainfo": "no extra information",
 	"updateddate": "data fetched: 2020-01-28",
 	"lottodate" : "numbers generated: 2020-01-26",

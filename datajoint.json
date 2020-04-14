@@ -1,36 +1,18 @@
-[{
-    "id": "37",
-    "name": "Irish Lotto",
-    "numbers": " 14 4 8 19 13 23 46 26 36 47 25 33",
-    "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
-    "extranumbers": " 0 0 0",
-    "lottodate": "2020-3-21"
-}{
-    "id": "38",
-    "name": "Irish Lotto Plus 1",
-    "numbers": " 14 4 8 19 13 23 46 26 36 47 25 33 14 22 6 8 17",
-    "reccomendation": " 'Reccomended to choose 1 Odds and rest of Evens'",
-    "extranumbers": " 0 0 0",
-    "lottodate": "2020-3-21"
-}{
-    "id": "39",
-    "name": "Irish Lotto Plus 2",
-    "numbers": " 14 4 8 19 13 23 46 26 36 47 25 33 14 22 6 8 17",
-    "reccomendation": " 'Reccomended to choose 3 Odds and rest of Evens'",
-    "extranumbers": " 0 0 0",
-    "lottodate": "2020-3-21"
-}{
-    "id": "24",
-    "name": " US Powerball ",
-    "numbers": " 34 2 4 33 15 29 31 60 66 62 68 65 67 63",
-    "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
-    "extranumbers": " 38 39 36",
-    "lottodate": "2020-3-19"
-}{
-    "id": "36",
-    "name": " EuroJackpot ",
-    "numbers": " 2 8 6 5 11 23 48 50 36 27 37 29",
-    "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
-    "extranumbers": " 10 9 2",
-    "lottodate": "2020-3-20"
-}]
+[
+    {
+        "id": "37",
+        "name": "Irish Lotto",
+        "numbers": " 14 4 8 19 13 23 46 26 36 47 25 33",
+        "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
+        "extranumbers": " 0 0 0",
+        "lottodate": "2020-3-21"
+    },
+    {
+        "id": "38",
+        "name": "Irish Lotto Plus 1",
+        "numbers": " 14 4 8 19 13 23 46 26 36 47 25 33 14 22 6 8 17",
+        "reccomendation": " 'Reccomended to choose 1 Odds and rest of Evens'",
+        "extranumbers": " 0 0 0",
+        "lottodate": "2020-3-21"
+    }
+]

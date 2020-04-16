@@ -9,7 +9,7 @@
     },
     {
         "id": "52",
-        "name": " SuperEnaLotto ",
+        "name": "SuperEnaLotto",
         "numbers": " 14 4 8 19 13 23 46 26 36 47 25 33 14 6 22 8 17",
         "reccomendation": " 'Reccomended to choose 4 Odds and rest of Evens'",
         "extranumbers": " 0 0 0",
@@ -17,7 +17,7 @@
     },
     {
         "id": "19",
-        "name": " Keno 24 7 ",
+        "name": "Keno 24 7",
         "numbers": " 14 4 8 19 13 23 46 26 36 47 25 33 14 6 22 8 17 13",
         "reccomendation": " 'Reccomended to choose 4 Odds and rest of Evens'",
         "extranumbers": "0, 0, 0",
@@ -25,7 +25,7 @@
     },
     {
         "id": "20",
-        "name": " 6 49 GO ",
+        "name": "6 49 GO",
         "numbers": " 14 4 8 19 13 23 46 26 36 47 25 33 14 6 22 8 17 13",
         "reccomendation": " 'Reccomended to choose 4 Odds and rest of Evens'",
         "extranumbers": "6, 2, 4",
@@ -33,7 +33,7 @@
     },
     {
         "id": "46",
-        "name": " MegaMillions ",
+        "name": "MegaMillions",
         "numbers": " 34 26 30 19 33 23 72 74 64 71 75 67 73",
         "reccomendation": " 'Reccomended to choose -4 Evens and rest of Odds'",
         "extranumbers": " 51 48 50",
@@ -57,7 +57,7 @@
     },
     {
         "id": "24",
-        "name": " US Powerball ",
+        "name": "US Powerball",
         "numbers": " 34 2 4 33 15 29 31 60 66 62 68 65 67 63",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": " 38 39 36",
@@ -65,7 +65,7 @@
     },
     {
         "id": "50",
-        "name": " EuroJackpot ",
+        "name": "EuroJackpot",
         "numbers": " 14 4 8 19 13 23 46 26 36 47 25 33 14 6 22 8 17",
         "reccomendation": " 'Reccomended to choose 5 Odds and rest of Evens'",
         "extranumbers": " 10 9 2",
@@ -73,7 +73,7 @@
     },
     {
         "id": "42",
-        "name": " EuroMillions ",
+        "name": "EuroMillions",
         "numbers": " 2 22 18 9 11 21 46 36 40 41 33 47",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": " 12 11 6",
@@ -81,7 +81,7 @@
     },
     {
         "id": "17",
-        "name": " EuroJackpot GO ",
+        "name": "EuroJackpot GO!",
         "numbers": " 14 4 8 19 13 23 46 26 36 47 25 33 14 6 22 8 17 13",
         "reccomendation": " 'Reccomended to choose 5 Odds and rest of Evens'",
         "extranumbers": "10, 6, 1",
@@ -89,7 +89,7 @@
     },
     {
         "id": "18",
-        "name": " EuroMillions GO ",
+        "name": "EuroMillions GO!",
         "numbers": " 14 4 8 19 13 23 46 26 36 47 25 33 14 6 22 8 17 13",
         "reccomendation": " 'Reccomended to choose 3 Odds and rest of Evens'",
         "extranumbers": "4, 10, 2",
@@ -97,7 +97,7 @@
     },
     {
         "id": "51",
-        "name": " German Lotto ",
+        "name": "German Lotto",
         "numbers": " 14 4 8 19 13 23 46 26 36 47 25 33 14 6 22 8 17",
         "reccomendation": " 'Reccomended to choose 4 Odds and rest of Evens'",
         "extranumbers": " 8 4 2",

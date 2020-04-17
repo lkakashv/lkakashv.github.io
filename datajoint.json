@@ -40,22 +40,6 @@
         "lottodate": "2020-4-15"
     },
     {
-        "id": "54",
-        "name": "Irish Lotto Plus 1",
-        "numbers": " 14 4 8 19 13 23 46 26 36 47 25 33 14 22 6 8 17",
-        "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
-        "extranumbers": " 0 0 0",
-        "lottodate": "2020-4-15"
-    },
-    {
-        "id": "55",
-        "name": "Irish Lotto Plus 2",
-        "numbers": " 14 4 8 19 13 23 46 26 36 47 25 33 14 22 6 8 17",
-        "reccomendation": " 'Reccomended to choose 3 Odds and rest of Evens'",
-        "extranumbers": " 0 0 0",
-        "lottodate": "2020-4-15"
-    },
-    {
         "id": "24",
         "name": "US PowerBall",
         "numbers": " 34 2 4 33 15 29 31 60 66 62 68 65 67 63",

@@ -1,0 +1,250 @@
+{
+  "version": "4.4.0.0",
+  "configs": [
+    {
+      "server": "89.187.163.215",
+      "server_port": 34913,
+      "password": "r4sUmXk9FHXMQd7FSGMxRveE",
+      "method": "aes-256-gcm",
+      "remarks": "Singapore I +",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "138.199.22.130",
+      "server_port": 34913,
+      "password": "r4sUmXk9FHXMQd7FSGMxRveE",
+      "method": "aes-256-gcm",
+      "remarks": "Japan TK VIII +",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "138.199.22.137",
+      "server_port": 34913,
+      "password": "r4sUmXk9FHXMQd7FSGMxRveE",
+      "method": "aes-256-gcm",
+      "remarks": "Japan TK VII +",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "138.199.16.146",
+      "server_port": 34913,
+      "password": "r4sUmXk9FHXMQd7FSGMxRveE",
+      "method": "aes-256-gcm",
+      "remarks": "France 1 +",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "143.244.57.92",
+      "server_port": 34913,
+      "password": "r4sUmXk9FHXMQd7FSGMxRveE",
+      "method": "aes-256-gcm",
+      "remarks": "France 12 +",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "143.244.57.87",
+      "server_port": 34913,
+      "password": "r4sUmXk9FHXMQd7FSGMxRveE",
+      "method": "aes-256-gcm",
+      "remarks": "France 14 ++",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "185.166.84.61",
+      "server_port": 34913,
+      "password": "r4sUmXk9FHXMQd7FSGMxRveE",
+      "method": "aes-256-gcm",
+      "remarks": "France 15  +",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "138.199.16.140",
+      "server_port": 34913,
+      "password": "r4sUmXk9FHXMQd7FSGMxRveE",
+      "method": "aes-256-gcm",
+      "remarks": "France 16 +",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "217.138.220.123",
+      "server_port": 34913,
+      "password": "r4sUmXk9FHXMQd7FSGMxRveE",
+      "method": "aes-256-gcm",
+      "remarks": "CZ ++",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "185.152.64.151",
+      "server_port": 34913,
+      "password": "r4sUmXk9FHXMQd7FSGMxRveE",
+      "method": "aes-256-gcm",
+      "remarks": "CZ ++",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "89.36.76.61",
+      "server_port": 34913,
+      "password": "r4sUmXk9FHXMQd7FSGMxRveE",
+      "method": "aes-256-gcm",
+      "remarks": "GR ++",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "193.29.106.91",
+      "server_port": 34913,
+      "password": "r4sUmXk9FHXMQd7FSGMxRveE",
+      "method": "aes-256-gcm",
+      "remarks": "GR1 ++",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "79.110.54.133",
+      "server_port": 34913,
+      "password": "r4sUmXk9FHXMQd7FSGMxRveE",
+      "method": "aes-256-gcm",
+      "remarks": "Las Vegas 1 +",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "212.102.46.35",
+      "server_port": 34913,
+      "password": "r4sUmXk9FHXMQd7FSGMxRveE",
+      "method": "aes-256-gcm",
+      "remarks": "Seattle 1 ++",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "138.199.9.195",
+      "server_port": 34913,
+      "password": "r4sUmXk9FHXMQd7FSGMxRveE",
+      "method": "aes-256-gcm",
+      "remarks": "LA 1 +++",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "185.124.240.148",
+      "server_port": 34913,
+      "password": "r4sUmXk9FHXMQd7FSGMxRveE",
+      "method": "aes-256-gcm",
+      "remarks": "San Francisco 1 +",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "154.16.93.53",
+      "server_port": 34913,
+      "password": "r4sUmXk9FHXMQd7FSGMxRveE",
+      "method": "aes-256-gcm",
+      "remarks": "South Africa 3 +",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "180.149.231.13",
+      "server_port": 34913,
+      "password": "r4sUmXk9FHXMQd7FSGMxRveE",
+      "method": "aes-256-gcm",
+      "remarks": "New Zeland +",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "193.29.107.213",
+      "server_port": 34913,
+      "password": "r4sUmXk9FHXMQd7FSGMxRveE",
+      "method": "aes-256-gcm",
+      "remarks": "Denmark +",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "89.187.187.78",
+      "server_port": 34913,
+      "password": "r4sUmXk9FHXMQd7FSGMxRveE",
+      "method": "aes-256-gcm",
+      "remarks": "TEST",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    }
+  ],
+  "onlineConfigSource": [],
+  "strategy": null,
+  "index": 10,
+  "global": true,
+  "enabled": true,
+  "shareOverLan": true,
+  "firstRun": false,
+  "localPort": 1080,
+  "portableMode": true,
+  "showPluginOutput": false,
+  "pacUrl": null,
+  "useOnlinePac": false,
+  "secureLocalPac": true,
+  "regeneratePacOnUpdate": true,
+  "autoCheckUpdate": true,
+  "checkPreRelease": true,
+  "skippedUpdateVersion": "",
+  "isVerboseLogging": false,
+  "isIPv6Enabled": false,
+  "generateLegacyUrl": false,
+  "geositeUrl": null,
+  "geositeSha256sumUrl": "",
+  "geositeDirectGroups": [
+    "cn",
+    "geolocation-!cn@cn",
+    "private"
+  ],
+  "geositeProxiedGroups": [
+    "geolocation-!cn"
+  ],
+  "geositePreferDirect": false,
+  "userAgent": "ShadowsocksWindows/$version",
+  "logViewer": {
+    "topMost": false,
+    "wrapText": false,
+    "toolbarShown": false,
+    "Font": "Consolas, 8pt",
+    "BackgroundColor": "Black",
+    "TextColor": "White"
+  },
+  "proxy": {
+    "useProxy": false,
+    "proxyType": 0,
+    "proxyServer": "",
+    "proxyPort": 0,
+    "proxyTimeout": 3,
+    "useAuth": false,
+    "authUser": "",
+    "authPwd": ""
+  },
+  "hotkey": {
+    "SwitchSystemProxy": "",
+    "SwitchSystemProxyMode": "",
+    "SwitchAllowLan": "",
+    "ShowLogs": "",
+    "ServerMoveUp": "",
+    "ServerMoveDown": "",
+    "RegHotkeysAtStartup": false
+  },
+  "WebProxy": {
+    "_BypassOnLocal": false,
+    "_ProxyAddress": "http://127.0.0.1:1080",
+    "_BypassList": null,
+    "_UseDefaultCredentials": false
+  }
+}

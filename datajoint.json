@@ -5,7 +5,7 @@
         "numbers": " 4, 22, 30, 5, 23, 1, 68, 66, 64, 69, 67, 65",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2021-6-29"
+        "lottodate": "2021-7-6"
     },
     {
         "id": 7,
@@ -13,7 +13,7 @@
         "numbers": " 34, 36, 14, 5, 23, 9, 50, 60, 64, 53, 59, 73",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2021-6-29"
+        "lottodate": "2021-7-6"
     },
     {
         "id": 3,
@@ -21,31 +21,31 @@
         "numbers": " 4, 18, 30, 34, 29, 33, 25, 60, 66, 68, 65, 67, 63",
         "reccomendation": " 'Reccomended to choose 1 Odds and rest of Evens'",
         "extranumbers": " 16, 7, 22",
-        "lottodate": "2021-6-27"
+        "lottodate": "2021-7-4"
     },
     {
         "id": 8,
         "name": "German Lotto",
-        "numbers": " 8, 14, 10, 20, 21, 9, 23, 34, 40, 28, 45, 49, 27, 43",
+        "numbers": " 8, 14, 20, 21, 23, 9, 34, 40, 28, 45, 49, 43",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": " 8, 2, 4",
-        "lottodate": "2021-6-26"
+        "lottodate": "2021-7-3"
     },
     {
         "id": 23,
         "name": "Mega-Sena",
-        "numbers": " 26, 22, 14, 21, 15, 3, 48, 60, 40, 55, 57, 31, 39",
-        "reccomendation": " 'Reccomended to choose -1 Evens and rest of Odds'",
+        "numbers": " 26, 22, 14, 21, 15, 3, 48, 60, 40, 55, 57, 39",
+        "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2021-6-26"
+        "lottodate": "2021-7-3"
     },
     {
         "id": 18,
         "name": "Sunday Lotto",
-        "numbers": " 16, 4, 18, 1, 5, 25, 46, 52, 30, 50, 35, 47, 43",
-        "reccomendation": " 'Reccomended to choose 1 Odds and rest of Evens'",
-        "extranumbers": " 4, 1, 2",
-        "lottodate": "2021-6-27"
+        "numbers": " 16, 4, 14, 18, 1, 5, 25, 46, 52, 30, 50, 35, 47, 43",
+        "reccomendation": " 'Reccomended to choose 2 Odds and rest of Evens'",
+        "extranumbers": " 4, 1, 6",
+        "lottodate": "2021-7-4"
     },
     {
         "id": 21,
@@ -53,7 +53,7 @@
         "numbers": " 12, 8, 2, 5, 7, 11, 48, 44, 26, 33, 39, 47",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2021-6-29"
+        "lottodate": "2021-7-6"
     },
     {
         "id": 15,
@@ -61,15 +61,15 @@
         "numbers": " 28, 22, 42, 41, 45, 35, 6, 16, 56, 7, 17, 1",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2021-6-29 Time: 16:54"
+        "lottodate": "2021-7-6 Time: 21:54"
     },
     {
         "id": 29,
         "name": "Mahzooz",
-        "numbers": " 22, 12, 14, 20, 5, 11, 23, 42, 46, 26, 28, 39, 29, 35, 49",
-        "reccomendation": " 'Reccomended to choose 1 Odds and rest of Evens'",
+        "numbers": " 22, 12, 14, 20, 5, 11, 23, 42, 46, 26, 28, 39, 29, 49",
+        "reccomendation": " 'Reccomended to choose 2 Odds and rest of Evens'",
         "extranumbers": "N/A",
-        "lottodate": "2021-6-26"
+        "lottodate": "2021-7-3"
     },
     {
         "id": 14,
@@ -77,15 +77,15 @@
         "numbers": " 14, 2, 8, 21, 1, 15, 30, 38, 36, 31, 25, 29",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2021-6-27"
+        "lottodate": "2021-7-4"
     },
     {
         "id": 13,
         "name": "Cash4Life",
-        "numbers": " 54, 52, 46, 53, 51, 3, 10, 30, 18, 33, 29, 15",
-        "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
+        "numbers": " 10, 2, 30, 29, 15, 3, 23, 54, 52, 46, 53, 33, 51",
+        "reccomendation": " 'Reccomended to choose -1 Evens and rest of Odds'",
         "extranumbers": " 3, 2",
-        "lottodate": "2021-6-29"
+        "lottodate": "2021-7-6"
     },
     {
         "id": 11,
@@ -93,23 +93,23 @@
         "numbers": " 20, 8, 18, 1, 15, 17, 38, 42, 40, 25, 29, 41",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2021-6-29"
+        "lottodate": "2021-7-6"
     },
     {
         "id": 25,
         "name": "SAT Lotto",
-        "numbers": " 8, 14, 2, 12, 15, 9, 19, 36, 44, 24, 30, 42, 43, 39, 41",
-        "reccomendation": " 'Reccomended to choose 3 Odds and rest of Evens'",
+        "numbers": " 8, 14, 12, 15, 9, 19, 36, 44, 24, 30, 43, 39, 41",
+        "reccomendation": " 'Reccomended to choose 1 Odds and rest of Evens'",
         "extranumbers": "N/A",
-        "lottodate": "2021-6-26"
+        "lottodate": "2021-7-3"
     },
     {
         "id": 6,
         "name": "EuroJackpot GO!",
-        "numbers": " 4, 14, 18, 11, 19, 5, 42, 26, 38, 39, 37, 33",
+        "numbers": " 4, 18, 14, 11, 19, 5, 26, 42, 38, 39, 37, 33",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "10, 6, 2",
-        "lottodate": "2021-6-29 Time: 15:0"
+        "lottodate": "2021-7-7 Time: 1:0"
     },
     {
         "id": 1,
@@ -117,31 +117,31 @@
         "numbers": " 22, 18, 8, 9, 3, 7, 36, 48, 40, 46, 41, 33, 47",
         "reccomendation": " 'Reccomended to choose 1 Odds and rest of Evens'",
         "extranumbers": " 12, 11, 10",
-        "lottodate": "2021-6-29"
+        "lottodate": "2021-7-6"
     },
     {
         "id": 9,
         "name": "6|49 GO!",
-        "numbers": " 4, 24, 8, 21, 9, 1, 40, 32, 48, 27, 47, 37",
+        "numbers": " 4, 48, 8, 9, 13, 1, 40, 32, 24, 21, 27, 37",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
-        "extranumbers": "6, 4, 2",
-        "lottodate": "2021-6-29 Time: 15:0"
+        "extranumbers": "6, 2, 4",
+        "lottodate": "2021-7-7 Time: 1:0"
     },
     {
         "id": 22,
         "name": "Brazil Quina",
-        "numbers": " 48, 68, 60, 47, 57, 65, 30, 20, 24, 3, 25, 35",
-        "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
+        "numbers": " 30, 20, 24, 3, 25, 35, 68, 48, 58, 60, 47, 57, 65",
+        "reccomendation": " 'Reccomended to choose 1 Odds and rest of Evens'",
         "extranumbers": "N/A",
-        "lottodate": "2021-6-28"
+        "lottodate": "2021-7-6"
     },
     {
         "id": 28,
         "name": "Mexico Melate",
-        "numbers": " 2, 4, 22, 27, 7, 9, 15, 19, 21, 25, 48, 56, 42, 44, 55, 47, 31",
-        "reccomendation": " 'Reccomended to choose 1 Evens and rest of Odds'",
+        "numbers": " 2, 4, 22, 27, 7, 9, 15, 25, 48, 56, 44, 55, 47, 31",
+        "reccomendation": " 'Reccomended to choose 0 Evens and rest of Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2021-6-28"
+        "lottodate": "2021-7-5"
     },
     {
         "id": 12,
@@ -149,23 +149,23 @@
         "numbers": " 12, 8, 20, 11, 21, 23, 32, 34, 46, 39, 33, 27",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": " 8, 6, 2",
-        "lottodate": "2021-6-28"
+        "lottodate": "2021-7-5"
     },
     {
         "id": 5,
         "name": "EuroMillions GO!",
-        "numbers": " 22, 24, 18, 17, 25, 15, 23, 32, 44, 38, 43, 47, 31",
+        "numbers": " 22, 24, 6, 17, 25, 15, 23, 32, 44, 48, 43, 47, 29",
         "reccomendation": " 'Reccomended to choose 2 Evens and rest of Odds'",
         "extranumbers": "2, 4, 10",
-        "lottodate": "2021-6-29 Time: 15:0"
+        "lottodate": "2021-7-7 Time: 1:0"
     },
     {
         "id": 27,
         "name": "South African Powerball",
-        "numbers": " 14, 2, 12, 1, 23, 17, 26, 42, 40, 44, 33, 35, 37, 39, 43",
+        "numbers": " 14, 2, 12, 23, 1, 17, 26, 42, 40, 44, 33, 37, 35, 39, 47",
         "reccomendation": " 'Reccomended to choose 0 Evens and rest of Odds'",
-        "extranumbers": " 1, 4, 19",
-        "lottodate": "2021-6-25"
+        "extranumbers": " 1, 19, 4",
+        "lottodate": "2021-7-6"
     },
     {
         "id": 19,
@@ -173,7 +173,7 @@
         "numbers": " 16, 20, 22, 26, 13, 1, 7, 50, 56, 54, 57, 51, 53",
         "reccomendation": " 'Reccomended to choose 1 Odds and rest of Evens'",
         "extranumbers": "N/A",
-        "lottodate": "2021-6-26"
+        "lottodate": "2021-7-3"
     },
     {
         "id": 16,
@@ -181,46 +181,46 @@
         "numbers": " 4, 6, 8, 19, 13, 11, 46, 26, 36, 47, 25, 33",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2021-6-26"
+        "lottodate": "2021-7-3"
     },
     {
         "id": 10,
         "name": "Keno 24|7",
-        "numbers": " 42, 54, 24, 17, 41, 51, 64, 70, 76, 11, 21, 71",
+        "numbers": " 2, 24, 16, 11, 21, 17, 42, 64, 54, 71, 41, 61",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2021-6-29 Time: 15:52"
+        "lottodate": "2021-7-7 Time: 1:40"
     },
     {
         "id": 24,
         "name": "Multi Keno",
-        "numbers": " 8, 26, 24, 3, 1, 7, 17, 80, 54, 50, 49, 71, 79",
-        "reccomendation": " 'Reccomended to choose 0 Evens and rest of Odds'",
+        "numbers": " 8, 26, 24, 3, 1, 17, 80, 54, 50, 49, 71, 79",
+        "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2021-6-29 Time: 12:0"
+        "lottodate": "2021-7-6 Time: 12:0"
     },
     {
         "id": 4,
         "name": "MegaMillions",
-        "numbers": " 34, 30, 26, 19, 23, 33, 72, 74, 60, 64, 71, 75, 73",
-        "reccomendation": " 'Reccomended to choose 1 Odds and rest of Evens'",
+        "numbers": " 34, 30, 18, 26, 19, 23, 33, 72, 74, 60, 64, 71, 75, 73",
+        "reccomendation": " 'Reccomended to choose 2 Odds and rest of Evens'",
         "extranumbers": " 23, 16, 18",
-        "lottodate": "2021-6-30"
+        "lottodate": "2021-7-7"
     },
     {
         "id": 26,
         "name": "South African Lotto",
-        "numbers": " 12, 4, 18, 5, 7, 9, 30, 40, 44, 31, 35, 39",
+        "numbers": " 30, 40, 44, 31, 35, 39, 12, 4, 18, 5, 7, 9",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2021-6-26"
+        "lottodate": "2021-7-3"
     },
     {
         "id": 2,
         "name": "EuroJackpot",
-        "numbers": " 2, 10, 8, 5, 23, 11, 13, 17, 48, 36, 50, 27, 37, 31",
+        "numbers": " 2, 8, 10, 5, 23, 11, 13, 17, 48, 36, 50, 27, 37, 31",
         "reccomendation": " 'Reccomended to choose 1 Evens and rest of Odds'",
         "extranumbers": " 10, 9, 2",
-        "lottodate": "2021-6-25"
+        "lottodate": "2021-7-2"
     }
 ]

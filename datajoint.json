@@ -109,7 +109,7 @@
         "numbers": " 10, 4, 14, 11, 5, 19, 26, 42, 38, 39, 37, 29",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "6, 10, 2",
-        "lottodate": "2021-9-6 Time: 22:0"
+        "lottodate": "2021-9-8 Time: 22:0"
     },
     {
         "id": 1,
@@ -124,8 +124,8 @@
         "name": "6|49 GO!",
         "numbers": " 24, 4, 8, 21, 9, 1, 40, 32, 48, 27, 47, 43",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
-        "extranumbers": "6, 5, 2",
-        "lottodate": "2021-9-7 Time: 23:0"
+        "extranumbers": "6, 5, 7",
+        "lottodate": "2021-9-8 Time: 23:0"
     },
     {
         "id": 22,
@@ -195,9 +195,9 @@
         "id": 24,
         "name": "Multi Keno",
         "numbers": " 8, 26, 24, 3, 1, 7, 17, 80, 54, 50, 49, 71, 79",
-        "reccomendation": " 'Reccomended to choose 0 Evens and rest of Odds'",
+        "reccomendation": " 'Reccomended to choose 1 Evens and rest of Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2021-9-6 Time: 12:0"
+        "lottodate": "2021-9-8 Time: 12:0"
     },
     {
         "id": 4,

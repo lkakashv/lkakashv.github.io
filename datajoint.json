@@ -5,7 +5,7 @@
         "numbers": " 4, 22, 30, 23, 1, 5, 68, 66, 64, 69, 67, 65",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2021-9-19"
+        "lottodate": "2021-9-20"
     },
     {
         "id": 7,
@@ -85,7 +85,7 @@
         "numbers": " 2, 10, 30, 29, 17, 23, 54, 52, 50, 53, 33, 59",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": " 3, 4",
-        "lottodate": "2021-9-19"
+        "lottodate": "2021-9-20"
     },
     {
         "id": 11,
@@ -93,7 +93,7 @@
         "numbers": " 20, 18, 8, 1, 15, 17, 38, 42, 40, 25, 29, 41",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2021-9-19"
+        "lottodate": "2021-9-20"
     },
     {
         "id": 25,
@@ -141,7 +141,7 @@
         "numbers": " 2, 4, 22, 27, 7, 9, 19, 48, 42, 44, 56, 55, 47, 31, 35",
         "reccomendation": " 'Reccomended to choose 1 Evens and rest of Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2021-9-16"
+        "lottodate": "2021-9-20"
     },
     {
         "id": 12,
@@ -149,7 +149,7 @@
         "numbers": " 12, 20, 8, 11, 23, 21, 32, 34, 28, 46, 39, 33, 27",
         "reccomendation": " 'Reccomended to choose 1 Odds and rest of Evens'",
         "extranumbers": " 8, 6, 2",
-        "lottodate": "2021-9-18"
+        "lottodate": "2021-9-20"
     },
     {
         "id": 5,

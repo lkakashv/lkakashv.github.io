@@ -5,7 +5,7 @@
         "numbers": " 4, 22, 30, 1, 23, 5, 68, 66, 64, 69, 67, 65",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2021-9-29"
+        "lottodate": "2021-9-30"
     },
     {
         "id": 7,
@@ -13,7 +13,7 @@
         "numbers": " 34, 36, 24, 23, 5, 9, 50, 60, 64, 53, 59, 73",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2021-9-28"
+        "lottodate": "2021-9-30"
     },
     {
         "id": 3,
@@ -21,7 +21,7 @@
         "numbers": " 4, 18, 34, 29, 33, 25, 60, 66, 68, 65, 67, 63, 69",
         "reccomendation": " 'Reccomended to choose 4 Evens and rest of Odds'",
         "extranumbers": " 7, 16, 22",
-        "lottodate": "2021-9-28"
+        "lottodate": "2021-9-30"
     },
     {
         "id": 8,
@@ -53,7 +53,7 @@
         "numbers": " 12, 8, 2, 5, 7, 11, 48, 44, 26, 33, 39, 47",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2021-9-28"
+        "lottodate": "2021-9-30"
     },
     {
         "id": 15,
@@ -85,15 +85,15 @@
         "numbers": " 2, 10, 30, 29, 17, 23, 54, 52, 50, 53, 33, 59",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": " 3, 2",
-        "lottodate": "2021-9-29"
+        "lottodate": "2021-9-30"
     },
     {
         "id": 11,
         "name": "MINI Lotto",
-        "numbers": " 20, 18, 8, 1, 15, 17, 38, 42, 40, 25, 29, 41",
+        "numbers": " 20, 18, 8, 1, 17, 15, 38, 42, 40, 25, 29, 41",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2021-9-29"
+        "lottodate": "2021-9-30"
     },
     {
         "id": 25,
@@ -133,15 +133,15 @@
         "numbers": " 30, 24, 20, 3, 25, 17, 48, 68, 58, 47, 57, 65",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2021-9-28"
+        "lottodate": "2021-9-29"
     },
     {
         "id": 28,
         "name": "Mexico Melate",
-        "numbers": " 2, 4, 22, 27, 7, 19, 48, 44, 42, 56, 55, 47, 31, 35",
+        "numbers": " 2, 4, 22, 27, 7, 19, 48, 44, 42, 55, 47, 35",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2021-9-27"
+        "lottodate": "2021-9-30"
     },
     {
         "id": 12,

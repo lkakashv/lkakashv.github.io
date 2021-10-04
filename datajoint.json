@@ -109,7 +109,7 @@
         "numbers": " 10, 4, 14, 11, 19, 5, 26, 42, 38, 40, 37, 39, 33",
         "reccomendation": " 'Reccomended to choose 1 Odds and rest of Evens'",
         "extranumbers": "6, 10, 2",
-        "lottodate": "2021-10-2 Time: 22:0"
+        "lottodate": "2021-10-4 Time: 22:0"
     },
     {
         "id": 1,
@@ -125,7 +125,7 @@
         "numbers": " 24, 4, 8, 9, 21, 1, 40, 48, 32, 27, 47, 43",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "6, 5, 2",
-        "lottodate": "2021-10-3 Time: 23:0"
+        "lottodate": "2021-10-4 Time: 23:0"
     },
     {
         "id": 22,
@@ -197,7 +197,7 @@
         "numbers": " 8, 26, 24, 3, 1, 7, 80, 54, 50, 49, 71, 79",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2021-10-2 Time: 12:0"
+        "lottodate": "2021-10-4 Time: 12:0"
     },
     {
         "id": 4,

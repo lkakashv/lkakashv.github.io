@@ -106,10 +106,10 @@
     {
         "id": 6,
         "name": "EuroJackpot GO!",
-        "numbers": " 10, 14, 4, 11, 19, 5, 26, 38, 42, 37, 39, 33",
+        "numbers": " 10, 14, 12, 11, 19, 5, 26, 38, 42, 37, 39, 33",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "6, 10, 2",
-        "lottodate": "2021-10-12 Time: 22:0"
+        "lottodate": "2021-10-14 Time: 22:0"
     },
     {
         "id": 1,
@@ -122,10 +122,10 @@
     {
         "id": 9,
         "name": "6|49 GO!",
-        "numbers": " 24, 4, 8, 9, 21, 1, 40, 48, 32, 27, 47, 25",
+        "numbers": " 40, 48, 32, 1, 47, 43, 24, 8, 4, 9, 21, 13",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "6, 2, 5",
-        "lottodate": "2021-10-13 Time: 23:0"
+        "lottodate": "2021-10-14 Time: 23:0"
     },
     {
         "id": 22,
@@ -197,7 +197,7 @@
         "numbers": " 8, 26, 24, 3, 1, 7, 80, 54, 50, 49, 71, 79",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2021-10-12 Time: 12:0"
+        "lottodate": "2021-10-14 Time: 12:0"
     },
     {
         "id": 4,

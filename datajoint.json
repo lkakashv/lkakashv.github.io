@@ -106,10 +106,10 @@
     {
         "id": 6,
         "name": "EuroJackpot GO!",
-        "numbers": " 10, 12, 14, 11, 19, 5, 26, 38, 42, 39, 37, 33",
+        "numbers": " 10, 12, 14, 11, 19, 5, 26, 42, 38, 39, 37, 33",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "6, 10, 2",
-        "lottodate": "2021-11-8 Time: 23:0"
+        "lottodate": "2021-11-9 Time: 23:0"
     },
     {
         "id": 1,
@@ -154,10 +154,10 @@
     {
         "id": 5,
         "name": "EuroMillions GO!",
-        "numbers": " 22, 24, 18, 17, 15, 25, 32, 44, 38, 43, 47, 29",
+        "numbers": " 22, 24, 18, 15, 17, 25, 32, 44, 38, 43, 47, 29",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "2, 4, 10",
-        "lottodate": "2021-11-8 Time: 23:0"
+        "lottodate": "2021-11-10 Time: 0:0"
     },
     {
         "id": 27,
@@ -194,10 +194,10 @@
     {
         "id": 24,
         "name": "Multi Keno",
-        "numbers": " 26, 24, 30, 49, 51, 55, 8, 80, 2, 71, 3, 79",
+        "numbers": " 8, 80, 54, 71, 3, 79, 26, 24, 30, 49, 17, 41",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2021-11-7 Time: 13:0"
+        "lottodate": "2021-11-9 Time: 13:0"
     },
     {
         "id": 4,

@@ -2,10 +2,10 @@
     {
         "id": 20,
         "name": "German Keno",
-        "numbers": " 30, 42, 54, 37, 59, 35, 45, 68, 66, 64, 69, 67, 65",
-        "reccomendation": " 'Reccomended to choose 50 Evens and rest of Odds'",
+        "numbers": " 4, 22, 30, 5, 23, 1, 68, 66, 64, 69, 67, 65",
+        "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2021-11-9"
+        "lottodate": "2021-11-10"
     },
     {
         "id": 7,
@@ -26,10 +26,10 @@
     {
         "id": 8,
         "name": "German Lotto",
-        "numbers": " 8, 14, 20, 21, 9, 23, 34, 28, 40, 45, 37, 43, 49",
+        "numbers": " 14, 8, 20, 21, 9, 23, 34, 28, 40, 45, 37, 43, 49",
         "reccomendation": " 'Reccomended to choose 4 Evens and rest of Odds'",
         "extranumbers": " 8, 2, 4",
-        "lottodate": "2021-11-6"
+        "lottodate": "2021-11-10"
     },
     {
         "id": 23,
@@ -74,10 +74,10 @@
     {
         "id": 14,
         "name": "Austria Lotto",
-        "numbers": " 14, 2, 8, 1, 15, 21, 30, 38, 36, 31, 25, 33, 41",
+        "numbers": " 14, 2, 8, 1, 21, 15, 30, 38, 36, 31, 25, 33, 41",
         "reccomendation": " 'Reccomended to choose 0 Evens and rest of Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2021-11-7"
+        "lottodate": "2021-11-10"
     },
     {
         "id": 13,
@@ -85,7 +85,7 @@
         "numbers": " 2, 10, 30, 29, 17, 23, 54, 52, 50, 53, 33, 59",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": " 3, 2",
-        "lottodate": "2021-11-9"
+        "lottodate": "2021-11-10"
     },
     {
         "id": 11,
@@ -93,7 +93,7 @@
         "numbers": " 20, 8, 18, 1, 17, 15, 38, 42, 40, 25, 31, 29",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2021-11-9"
+        "lottodate": "2021-11-10"
     },
     {
         "id": 25,
@@ -133,7 +133,7 @@
         "numbers": " 30, 20, 24, 3, 25, 17, 48, 68, 58, 47, 57, 65",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2021-11-9"
+        "lottodate": "2021-11-10"
     },
     {
         "id": 28,
@@ -149,7 +149,7 @@
         "numbers": " 12, 8, 20, 11, 23, 21, 32, 34, 28, 39, 33, 25",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": " 8, 6, 2",
-        "lottodate": "2021-11-8"
+        "lottodate": "2021-11-10"
     },
     {
         "id": 5,
@@ -173,15 +173,15 @@
         "numbers": " 16, 20, 2, 22, 26, 13, 1, 7, 56, 50, 54, 57, 51, 53",
         "reccomendation": " 'Reccomended to choose 2 Odds and rest of Evens'",
         "extranumbers": "N/A",
-        "lottodate": "2021-11-6"
+        "lottodate": "2021-11-10"
     },
     {
         "id": 16,
         "name": "Irish Lotto",
-        "numbers": " 4, 8, 6, 20, 19, 13, 3, 11, 46, 26, 36, 47, 25, 33",
-        "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
+        "numbers": " 4, 8, 6, 14, 20, 19, 13, 3, 11, 46, 26, 36, 47, 25, 33",
+        "reccomendation": " 'Reccomended to choose 1 Odds and rest of Evens'",
         "extranumbers": "N/A",
-        "lottodate": "2021-11-6"
+        "lottodate": "2021-11-10"
     },
     {
         "id": 10,
@@ -210,10 +210,10 @@
     {
         "id": 26,
         "name": "South African Lotto",
-        "numbers": " 12, 18, 4, 5, 7, 9, 40, 44, 30, 34, 31, 39, 35, 37",
-        "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
+        "numbers": " 12, 18, 4, 5, 7, 9, 40, 44, 30, 31, 39, 35, 37",
+        "reccomendation": " 'Reccomended to choose -1 Evens and rest of Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2021-11-6"
+        "lottodate": "2021-11-10"
     },
     {
         "id": 2,

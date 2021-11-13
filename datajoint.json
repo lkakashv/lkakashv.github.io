@@ -5,7 +5,7 @@
         "numbers": " 4, 22, 30, 5, 23, 1, 68, 66, 64, 69, 67, 65",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2021-11-11"
+        "lottodate": "2021-11-12"
     },
     {
         "id": 7,
@@ -85,15 +85,15 @@
         "numbers": " 2, 10, 30, 29, 17, 23, 54, 52, 50, 53, 33, 59",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": " 3, 2",
-        "lottodate": "2021-11-11"
+        "lottodate": "2021-11-12"
     },
     {
         "id": 11,
         "name": "MINI Lotto",
-        "numbers": " 20, 8, 18, 1, 17, 15, 38, 42, 40, 25, 31, 29",
-        "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
+        "numbers": " 20, 8, 18, 1, 17, 15, 38, 42, 40, 25, 31, 29, 41",
+        "reccomendation": " 'Reccomended to choose 1 Evens and rest of Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2021-11-11"
+        "lottodate": "2021-11-12"
     },
     {
         "id": 25,
@@ -117,7 +117,7 @@
         "numbers": " 22, 18, 8, 9, 3, 11, 36, 40, 48, 33, 41, 47",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": " 12, 11, 10",
-        "lottodate": "2021-11-9"
+        "lottodate": "2021-11-12"
     },
     {
         "id": 9,
@@ -133,7 +133,7 @@
         "numbers": " 30, 20, 24, 3, 25, 17, 48, 68, 58, 47, 57, 65",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2021-11-11"
+        "lottodate": "2021-11-12"
     },
     {
         "id": 28,
@@ -165,7 +165,7 @@
         "numbers": " 14, 2, 12, 1, 23, 17, 26, 44, 40, 33, 37, 39",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": " 19, 1, 16",
-        "lottodate": "2021-11-9"
+        "lottodate": "2021-11-12"
     },
     {
         "id": 19,
@@ -205,7 +205,7 @@
         "numbers": " 34, 30, 26, 19, 23, 33, 72, 74, 64, 71, 75, 73",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": " 23, 16, 18",
-        "lottodate": "2021-11-10"
+        "lottodate": "2021-11-13"
     },
     {
         "id": 26,
@@ -221,6 +221,6 @@
         "numbers": " 2, 10, 8, 5, 23, 3, 11, 17, 48, 36, 50, 27, 37, 45",
         "reccomendation": " 'Reccomended to choose 1 Evens and rest of Odds'",
         "extranumbers": " 10, 9, 2",
-        "lottodate": "2021-11-5"
+        "lottodate": "2021-11-12"
     }
 ]

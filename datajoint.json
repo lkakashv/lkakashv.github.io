@@ -106,10 +106,10 @@
     {
         "id": 6,
         "name": "EuroJackpot GO!",
-        "numbers": " 10, 12, 18, 11, 25, 19, 26, 38, 42, 39, 37, 33",
+        "numbers": " 10, 12, 18, 11, 25, 5, 26, 38, 42, 39, 37, 33",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "6, 10, 2",
-        "lottodate": "2021-11-16 Time: 23:0"
+        "lottodate": "2021-11-17 Time: 23:0"
     },
     {
         "id": 1,
@@ -194,10 +194,10 @@
     {
         "id": 24,
         "name": "Multi Keno",
-        "numbers": " 26, 24, 30, 49, 51, 55, 8, 80, 2, 71, 3, 79",
+        "numbers": " 26, 24, 30, 49, 17, 51, 8, 80, 54, 71, 3, 79",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2021-11-15 Time: 13:0"
+        "lottodate": "2021-11-17 Time: 13:0"
     },
     {
         "id": 4,

@@ -106,10 +106,10 @@
     {
         "id": 6,
         "name": "EuroJackpot GO!",
-        "numbers": " 10, 12, 18, 11, 25, 5, 19, 26, 38, 42, 39, 37, 33",
-        "reccomendation": " 'Reccomended to choose -3 Evens and rest of Odds'",
+        "numbers": " 12, 10, 14, 11, 25, 5, 19, 26, 38, 42, 39, 37, 33",
+        "reccomendation": " 'Reccomended to choose -2 Evens and rest of Odds'",
         "extranumbers": "6, 10, 2",
-        "lottodate": "2021-12-6 Time: 23:0"
+        "lottodate": "2021-12-7 Time: 23:0"
     },
     {
         "id": 1,
@@ -154,10 +154,10 @@
     {
         "id": 5,
         "name": "EuroMillions GO!",
-        "numbers": " 24, 22, 18, 17, 15, 25, 32, 44, 38, 43, 29, 31, 47",
-        "reccomendation": " 'Reccomended to choose 0 Evens and rest of Odds'",
+        "numbers": " 24, 22, 18, 17, 15, 25, 32, 44, 48, 43, 29, 31",
+        "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "2, 4, 10",
-        "lottodate": "2021-12-6 Time: 23:0"
+        "lottodate": "2021-12-8 Time: 0:0"
     },
     {
         "id": 27,
@@ -189,7 +189,7 @@
         "numbers": " 42, 54, 24, 17, 41, 51, 80, 70, 76, 11, 21, 71",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2021-12-6 Time: 0:0"
+        "lottodate": "2021-12-8 Time: 0:4"
     },
     {
         "id": 24,
@@ -197,7 +197,7 @@
         "numbers": " 26, 8, 24, 3, 1, 7, 80, 54, 50, 71, 49, 79",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2021-12-5 Time: 13:0"
+        "lottodate": "2021-12-7 Time: 13:0"
     },
     {
         "id": 4,

@@ -2,10 +2,10 @@
     {
         "id": 20,
         "name": "German Keno",
-        "numbers": " 4, 22, 30, 5, 23, 1, 68, 66, 64, 69, 67, 65",
+        "numbers": " 42, 30, 54, 37, 35, 45, 68, 66, 64, 69, 67, 65",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2021-12-9"
+        "lottodate": "2021-12-10"
     },
     {
         "id": 7,
@@ -37,7 +37,7 @@
         "numbers": " 26, 22, 14, 21, 15, 3, 48, 40, 60, 55, 31, 47",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2021-12-7"
+        "lottodate": "2021-12-9"
     },
     {
         "id": 18,
@@ -84,8 +84,8 @@
         "name": "Cash4Life",
         "numbers": " 2, 10, 30, 29, 17, 15, 23, 54, 52, 50, 53, 33, 59",
         "reccomendation": " 'Reccomended to choose -1 Evens and rest of Odds'",
-        "extranumbers": " 3, 2",
-        "lottodate": "2021-12-9"
+        "extranumbers": " 3, 4",
+        "lottodate": "2021-12-10"
     },
     {
         "id": 11,
@@ -93,7 +93,7 @@
         "numbers": " 20, 8, 18, 1, 17, 15, 38, 42, 40, 25, 31, 41",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2021-12-9"
+        "lottodate": "2021-12-10"
     },
     {
         "id": 25,
@@ -114,10 +114,10 @@
     {
         "id": 1,
         "name": "EuroMillions",
-        "numbers": " 18, 22, 8, 9, 3, 11, 40, 48, 36, 33, 41, 47",
-        "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
+        "numbers": " 18, 22, 8, 9, 3, 7, 11, 40, 48, 36, 41, 33, 47",
+        "reccomendation": " 'Reccomended to choose 1 Evens and rest of Odds'",
         "extranumbers": " 12, 11, 10",
-        "lottodate": "2021-12-7"
+        "lottodate": "2021-12-10"
     },
     {
         "id": 9,
@@ -165,7 +165,7 @@
         "numbers": " 14, 2, 12, 1, 23, 17, 26, 44, 32, 40, 33, 37, 39",
         "reccomendation": " 'Reccomended to choose 1 Odds and rest of Evens'",
         "extranumbers": " 19, 16, 1",
-        "lottodate": "2021-12-7"
+        "lottodate": "2021-12-10"
     },
     {
         "id": 19,
@@ -205,7 +205,7 @@
         "numbers": " 34, 30, 26, 19, 23, 33, 72, 74, 64, 71, 75, 73",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": " 23, 16, 18",
-        "lottodate": "2021-12-8"
+        "lottodate": "2021-12-11"
     },
     {
         "id": 26,
@@ -218,9 +218,9 @@
     {
         "id": 2,
         "name": "EuroJackpot",
-        "numbers": " 2, 10, 8, 5, 3, 11, 23, 48, 36, 50, 27, 37, 45",
-        "reccomendation": " 'Reccomended to choose 1 Evens and rest of Odds'",
+        "numbers": " 2, 10, 8, 24, 5, 3, 11, 23, 48, 36, 50, 27, 37, 45",
+        "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": " 10, 9, 2",
-        "lottodate": "2021-12-3"
+        "lottodate": "2021-12-10"
     }
 ]

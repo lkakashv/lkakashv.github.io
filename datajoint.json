@@ -58,10 +58,10 @@
     {
         "id": 15,
         "name": "KeNow",
-        "numbers": " 28, 42, 22, 41, 45, 35, 16, 6, 58, 7, 17, 1",
+        "numbers": " 28, 22, 42, 41, 45, 35, 6, 16, 58, 7, 17, 1",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2022-1-5 Time: 22:54"
+        "lottodate": "2022-1-7 Time: 22:54"
     },
     {
         "id": 29,
@@ -109,7 +109,7 @@
         "numbers": " 10, 12, 14, 11, 5, 19, 26, 38, 32, 39, 37, 33",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "10, 2, 6",
-        "lottodate": "2022-1-6 Time: 23:0"
+        "lottodate": "2022-1-7 Time: 23:0"
     },
     {
         "id": 1,
@@ -122,10 +122,10 @@
     {
         "id": 9,
         "name": "6|49 GO!",
-        "numbers": " 24, 8, 4, 21, 9, 1, 40, 48, 32, 47, 27, 25",
+        "numbers": " 8, 24, 4, 21, 9, 1, 40, 48, 32, 47, 27, 25",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "6, 2, 5",
-        "lottodate": "2022-1-6 Time: 0:0"
+        "lottodate": "2022-1-8 Time: 0:0"
     },
     {
         "id": 22,
@@ -189,15 +189,15 @@
         "numbers": " 24, 14, 2, 11, 21, 17, 42, 80, 70, 41, 71, 61",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2022-1-6 Time: 0:4"
+        "lottodate": "2022-1-8 Time: 0:0"
     },
     {
         "id": 24,
         "name": "Multi Keno",
-        "numbers": " 54, 50, 36, 71, 49, 55, 26, 8, 24, 3, 79, 1, 7, 17",
-        "reccomendation": " 'Reccomended to choose -1 Evens and rest of Odds'",
+        "numbers": " 26, 8, 24, 3, 1, 7, 17, 80, 54, 50, 71, 49, 79",
+        "reccomendation": " 'Reccomended to choose 0 Evens and rest of Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2022-1-5 Time: 13:0"
+        "lottodate": "2022-1-7 Time: 13:0"
     },
     {
         "id": 4,

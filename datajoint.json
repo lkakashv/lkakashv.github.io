@@ -2,10 +2,10 @@
     {
         "id": 20,
         "name": "German Keno",
-        "numbers": " 4, 22, 30, 5, 23, 17, 68, 66, 64, 69, 67, 65",
-        "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
+        "numbers": " 4, 22, 30, 5, 35, 17, 23, 68, 66, 64, 69, 67, 65",
+        "reccomendation": " 'Reccomended to choose 23 Evens and rest of Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2022-3-24"
+        "lottodate": "2022-3-25"
     },
     {
         "id": 7,
@@ -85,7 +85,7 @@
         "numbers": " 2, 10, 30, 29, 3, 23, 54, 52, 50, 53, 33, 59",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": " 3, 4",
-        "lottodate": "2022-3-24"
+        "lottodate": "2022-3-25"
     },
     {
         "id": 11,
@@ -93,7 +93,7 @@
         "numbers": " 20, 8, 18, 1, 17, 15, 38, 42, 40, 25, 31, 41",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2022-3-24"
+        "lottodate": "2022-3-25"
     },
     {
         "id": 25,
@@ -117,7 +117,7 @@
         "numbers": " 22, 8, 18, 9, 3, 11, 40, 48, 36, 33, 41, 47",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": " 12, 11, 1",
-        "lottodate": "2022-3-22"
+        "lottodate": "2022-3-25"
     },
     {
         "id": 9,
@@ -133,7 +133,7 @@
         "numbers": " 20, 24, 30, 3, 25, 17, 21, 48, 68, 58, 47, 57, 65",
         "reccomendation": " 'Reccomended to choose -2 Evens and rest of Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2022-3-23"
+        "lottodate": "2022-3-24"
     },
     {
         "id": 28,
@@ -165,7 +165,7 @@
         "numbers": " 14, 2, 12, 1, 23, 17, 26, 44, 42, 33, 39, 37",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": " 19, 14, 1",
-        "lottodate": "2022-3-22"
+        "lottodate": "2022-3-25"
     },
     {
         "id": 19,
@@ -205,7 +205,7 @@
         "numbers": " 34, 30, 26, 19, 23, 33, 72, 74, 64, 71, 75, 73",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": " 23, 18, 16",
-        "lottodate": "2022-3-23"
+        "lottodate": "2022-3-26"
     },
     {
         "id": 26,
@@ -218,9 +218,9 @@
     {
         "id": 2,
         "name": "EuroJackpot",
-        "numbers": " 2, 10, 24, 11, 3, 5, 48, 50, 26, 28, 36, 27, 37, 45",
+        "numbers": " 2, 10, 24, 3, 5, 11, 48, 50, 26, 28, 36, 27, 37, 45",
         "reccomendation": " 'Reccomended to choose 2 Odds and rest of Evens'",
         "extranumbers": " 10, 9, 2",
-        "lottodate": "2022-3-18"
+        "lottodate": "2022-3-25"
     }
 ]

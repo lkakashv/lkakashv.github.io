@@ -5,7 +5,7 @@
         "numbers": " 4, 22, 30, 5, 23, 17, 68, 66, 64, 69, 67, 65",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2022-4-30"
+        "lottodate": "2022-5-1"
     },
     {
         "id": 7,
@@ -21,7 +21,7 @@
         "numbers": " 4, 18, 34, 29, 25, 33, 60, 66, 68, 65, 67, 69",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": " 7, 16, 22",
-        "lottodate": "2022-4-28"
+        "lottodate": "2022-5-1"
     },
     {
         "id": 8,
@@ -37,15 +37,15 @@
         "numbers": " 26, 22, 14, 21, 15, 3, 48, 60, 40, 55, 31, 59",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2022-4-28"
+        "lottodate": "2022-4-30"
     },
     {
         "id": 18,
         "name": "Sunday Lotto",
-        "numbers": " 16, 4, 14, 1, 5, 25, 46, 30, 52, 35, 47, 41",
-        "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
+        "numbers": " 16, 4, 14, 26, 1, 5, 25, 46, 30, 52, 35, 47, 41",
+        "reccomendation": " 'Reccomended to choose 1 Odds and rest of Evens'",
         "extranumbers": " 4, 1, 6",
-        "lottodate": "2022-4-24"
+        "lottodate": "2022-5-1"
     },
     {
         "id": 21,
@@ -74,18 +74,18 @@
     {
         "id": 14,
         "name": "Austria Lotto",
-        "numbers": " 14, 2, 8, 15, 21, 1, 30, 38, 36, 31, 33, 25",
+        "numbers": " 14, 2, 8, 15, 1, 21, 30, 38, 36, 31, 33, 25",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2022-4-27"
+        "lottodate": "2022-5-1"
     },
     {
         "id": 13,
         "name": "Cash4Life",
-        "numbers": " 2, 10, 30, 29, 23, 17, 54, 52, 50, 33, 53, 59",
+        "numbers": " 10, 2, 30, 29, 23, 17, 54, 52, 50, 33, 53, 59",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": " 3, 4",
-        "lottodate": "2022-4-30"
+        "lottodate": "2022-5-1"
     },
     {
         "id": 11,
@@ -93,7 +93,7 @@
         "numbers": " 20, 8, 18, 1, 17, 15, 38, 42, 40, 25, 31, 41",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2022-4-30"
+        "lottodate": "2022-5-1"
     },
     {
         "id": 25,
@@ -133,7 +133,7 @@
         "numbers": " 20, 24, 30, 3, 25, 21, 48, 68, 58, 47, 57, 65",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2022-4-29"
+        "lottodate": "2022-4-30"
     },
     {
         "id": 28,

@@ -5,7 +5,7 @@
         "numbers": " 4, 22, 30, 5, 17, 23, 68, 66, 64, 69, 67, 65",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2022-5-20"
+        "lottodate": "2022-5-21"
     },
     {
         "id": 7,
@@ -13,7 +13,7 @@
         "numbers": " 36, 34, 14, 23, 5, 9, 50, 60, 46, 53, 59, 73",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2022-5-19"
+        "lottodate": "2022-5-21"
     },
     {
         "id": 3,
@@ -29,7 +29,7 @@
         "numbers": " 8, 14, 20, 21, 23, 9, 34, 28, 32, 40, 45, 35, 37",
         "reccomendation": " 'Reccomended to choose 1 Odds and rest of Evens'",
         "extranumbers": " 8, 2, 9",
-        "lottodate": "2022-5-18"
+        "lottodate": "2022-5-21"
     },
     {
         "id": 23,
@@ -53,7 +53,7 @@
         "numbers": " 12, 8, 2, 5, 11, 7, 48, 44, 26, 33, 47, 39",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2022-5-19"
+        "lottodate": "2022-5-21"
     },
     {
         "id": 15,
@@ -85,23 +85,23 @@
         "numbers": " 10, 2, 18, 30, 29, 7, 17, 23, 54, 52, 50, 33, 53, 59",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": " 3, 4",
-        "lottodate": "2022-5-20"
+        "lottodate": "2022-5-21"
     },
     {
         "id": 11,
         "name": "MINI Lotto",
-        "numbers": " 20, 8, 18, 1, 17, 15, 38, 42, 40, 25, 31, 41",
-        "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
+        "numbers": " 20, 8, 18, 1, 17, 15, 38, 42, 34, 40, 25, 31, 41",
+        "reccomendation": " 'Reccomended to choose 1 Odds and rest of Evens'",
         "extranumbers": "N/A",
-        "lottodate": "2022-5-20"
+        "lottodate": "2022-5-21"
     },
     {
         "id": 25,
         "name": "SAT Lotto",
-        "numbers": " 44, 8, 12, 41, 43, 39, 14, 36, 18, 24, 25, 15, 23",
-        "reccomendation": " 'Reccomended to choose 1 Odds and rest of Evens'",
+        "numbers": " 8, 14, 12, 15, 5, 7, 9, 44, 36, 24, 42, 25, 39, 41, 43",
+        "reccomendation": " 'Reccomended to choose 1 Evens and rest of Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2022-5-14"
+        "lottodate": "2022-5-21"
     },
     {
         "id": 6,
@@ -133,15 +133,15 @@
         "numbers": " 20, 24, 30, 3, 25, 21, 48, 68, 58, 47, 57, 65",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2022-5-19"
+        "lottodate": "2022-5-20"
     },
     {
         "id": 28,
         "name": "Mexico Melate",
-        "numbers": " 4, 2, 8, 27, 7, 19, 48, 30, 56, 47, 55, 31, 35",
-        "reccomendation": " 'Reccomended to choose 2 Evens and rest of Odds'",
+        "numbers": " 4, 2, 8, 27, 7, 19, 48, 30, 56, 47, 55, 31",
+        "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2022-5-19"
+        "lottodate": "2022-5-21"
     },
     {
         "id": 12,
@@ -149,7 +149,7 @@
         "numbers": " 12, 2, 20, 11, 23, 21, 32, 28, 34, 39, 33, 25",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": " 8, 6, 2",
-        "lottodate": "2022-5-18"
+        "lottodate": "2022-5-21"
     },
     {
         "id": 5,
@@ -170,10 +170,10 @@
     {
         "id": 19,
         "name": "UK Lotto Plus",
-        "numbers": " 16, 20, 22, 13, 7, 5, 50, 56, 52, 51, 57, 53",
+        "numbers": " 16, 20, 22, 13, 1, 7, 50, 56, 52, 51, 57, 53",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2022-5-18"
+        "lottodate": "2022-5-21"
     },
     {
         "id": 16,
@@ -181,7 +181,7 @@
         "numbers": " 4, 6, 8, 19, 13, 3, 46, 26, 36, 47, 25, 33",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2022-5-18"
+        "lottodate": "2022-5-21"
     },
     {
         "id": 10,
@@ -210,10 +210,10 @@
     {
         "id": 26,
         "name": "South African Lotto",
-        "numbers": " 12, 18, 4, 5, 9, 7, 40, 52, 44, 31, 35, 37",
+        "numbers": " 40, 52, 44, 9, 5, 7, 12, 18, 34, 31, 35, 21",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2022-5-18"
+        "lottodate": "2022-5-21"
     },
     {
         "id": 2,

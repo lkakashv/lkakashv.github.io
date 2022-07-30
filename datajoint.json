@@ -2,10 +2,10 @@
     {
         "id": 20,
         "name": "German Keno",
-        "numbers": " 68, 66, 4, 69, 67, 65, 64, 62, 54, 63, 61, 37",
-        "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
+        "numbers": " 4, 22, 30, 5, 1, 13, 17, 19, 68, 66, 64, 69, 67, 65",
+        "reccomendation": " 'Reccomended to choose 20 Evens and rest of Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2022-7-28"
+        "lottodate": "2022-7-29"
     },
     {
         "id": 7,
@@ -82,10 +82,10 @@
     {
         "id": 13,
         "name": "Cash4Life",
-        "numbers": " 2, 10, 18, 29, 17, 3, 23, 54, 52, 50, 53, 33, 51",
-        "reccomendation": " 'Reccomended to choose -1 Evens and rest of Odds'",
+        "numbers": " 54, 52, 2, 53, 51, 3, 10, 18, 30, 29, 33, 17",
+        "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": " 3, 4",
-        "lottodate": "2022-7-28"
+        "lottodate": "2022-7-29"
     },
     {
         "id": 11,
@@ -93,7 +93,7 @@
         "numbers": " 20, 8, 18, 1, 17, 15, 38, 42, 34, 25, 29, 31",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2022-7-28"
+        "lottodate": "2022-7-29"
     },
     {
         "id": 25,
@@ -117,7 +117,7 @@
         "numbers": " 22, 8, 18, 9, 3, 7, 11, 40, 46, 36, 33, 41, 47",
         "reccomendation": " 'Reccomended to choose 1 Evens and rest of Odds'",
         "extranumbers": " 12, 1, 11",
-        "lottodate": "2022-7-26"
+        "lottodate": "2022-7-29"
     },
     {
         "id": 9,
@@ -133,7 +133,7 @@
         "numbers": " 20, 24, 30, 3, 25, 1, 48, 68, 58, 47, 57, 65",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2022-7-27"
+        "lottodate": "2022-7-28"
     },
     {
         "id": 28,
@@ -165,7 +165,7 @@
         "numbers": " 14, 2, 10, 1, 23, 17, 26, 44, 40, 33, 37, 39",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": " 19, 14, 1",
-        "lottodate": "2022-7-26"
+        "lottodate": "2022-7-29"
     },
     {
         "id": 19,
@@ -205,7 +205,7 @@
         "numbers": " 34, 26, 30, 19, 23, 33, 72, 74, 70, 71, 75, 73",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": " 23, 16, 18",
-        "lottodate": "2022-7-27"
+        "lottodate": "2022-7-30"
     },
     {
         "id": 26,
@@ -220,7 +220,7 @@
         "name": "EuroJackpot",
         "numbers": " 2, 12, 4, 8, 11, 3, 5, 48, 36, 26, 27, 37, 31",
         "reccomendation": " 'Reccomended to choose 1 Odds and rest of Evens'",
-        "extranumbers": " 11, 12, 10",
-        "lottodate": "2022-7-26"
+        "extranumbers": " 12, 11, 10",
+        "lottodate": "2022-7-29"
     }
 ]

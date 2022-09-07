@@ -2,10 +2,10 @@
     {
         "id": 20,
         "name": "German Keno",
-        "numbers": " 68, 66, 64, 69, 67, 65, 62, 54, 30, 63, 61, 37",
+        "numbers": " 4, 22, 30, 5, 19, 13, 68, 66, 64, 69, 67, 65",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2022-9-5"
+        "lottodate": "2022-9-6"
     },
     {
         "id": 7,
@@ -13,7 +13,7 @@
         "numbers": " 36, 34, 14, 23, 5, 9, 50, 60, 64, 53, 59, 67, 73",
         "reccomendation": " 'Reccomended to choose 5 Evens and rest of Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2022-9-3"
+        "lottodate": "2022-9-6"
     },
     {
         "id": 3,
@@ -21,7 +21,7 @@
         "numbers": " 4, 34, 18, 29, 25, 33, 60, 66, 68, 65, 67, 69",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": " 7, 16, 22",
-        "lottodate": "2022-9-4"
+        "lottodate": "2022-9-6"
     },
     {
         "id": 8,
@@ -50,10 +50,10 @@
     {
         "id": 21,
         "name": "Polish Lotto",
-        "numbers": " 12, 8, 2, 5, 11, 19, 48, 44, 26, 33, 47, 43",
-        "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
+        "numbers": " 12, 8, 2, 5, 11, 19, 48, 44, 26, 40, 33, 47, 43",
+        "reccomendation": " 'Reccomended to choose 1 Odds and rest of Evens'",
         "extranumbers": "N/A",
-        "lottodate": "2022-9-3"
+        "lottodate": "2022-9-6"
     },
     {
         "id": 15,
@@ -82,18 +82,18 @@
     {
         "id": 13,
         "name": "Cash4Life",
-        "numbers": " 18, 10, 30, 29, 3, 17, 54, 52, 32, 53, 33, 43, 59",
+        "numbers": " 54, 52, 18, 53, 3, 17, 30, 28, 32, 29, 33, 23, 43",
         "reccomendation": " 'Reccomended to choose -1 Evens and rest of Odds'",
         "extranumbers": " 3, 4",
-        "lottodate": "2022-9-5"
+        "lottodate": "2022-9-6"
     },
     {
         "id": 11,
         "name": "MINI Lotto",
-        "numbers": " 20, 8, 18, 1, 17, 15, 38, 42, 34, 25, 29, 31",
+        "numbers": " 20, 8, 18, 1, 17, 15, 38, 42, 34, 25, 31, 29",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2022-9-5"
+        "lottodate": "2022-9-6"
     },
     {
         "id": 25,
@@ -117,7 +117,7 @@
         "numbers": " 22, 8, 18, 9, 3, 11, 40, 46, 36, 41, 33, 47",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": " 12, 1, 11",
-        "lottodate": "2022-9-2"
+        "lottodate": "2022-9-6"
     },
     {
         "id": 9,
@@ -133,7 +133,7 @@
         "numbers": " 20, 24, 30, 3, 25, 1, 48, 68, 58, 47, 57, 65",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2022-9-3"
+        "lottodate": "2022-9-5"
     },
     {
         "id": 28,
@@ -162,10 +162,10 @@
     {
         "id": 27,
         "name": "South African Powerball",
-        "numbers": " 14, 2, 22, 1, 23, 17, 26, 44, 40, 33, 37, 27, 31, 39",
+        "numbers": " 14, 2, 22, 1, 23, 17, 26, 44, 40, 33, 37, 27, 39",
         "reccomendation": " 'Reccomended to choose -1 Evens and rest of Odds'",
         "extranumbers": " 19, 14, 7",
-        "lottodate": "2022-9-2"
+        "lottodate": "2022-9-6"
     },
     {
         "id": 19,
@@ -205,7 +205,7 @@
         "numbers": " 34, 26, 30, 19, 23, 33, 72, 74, 70, 71, 75, 73",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": " 23, 16, 18",
-        "lottodate": "2022-9-3"
+        "lottodate": "2022-9-7"
     },
     {
         "id": 26,
@@ -218,9 +218,9 @@
     {
         "id": 2,
         "name": "EuroJackpot",
-        "numbers": " 2, 12, 8, 3, 5, 11, 48, 36, 26, 28, 42, 27, 37, 31",
-        "reccomendation": " 'Reccomended to choose 2 Odds and rest of Evens'",
+        "numbers": " 2, 12, 8, 3, 5, 11, 13, 23, 48, 36, 26, 28, 42, 27, 37, 31",
+        "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": " 11, 12, 10",
-        "lottodate": "2022-9-2"
+        "lottodate": "2022-9-6"
     }
 ]

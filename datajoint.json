@@ -5,7 +5,7 @@
         "numbers": " 4, 22, 30, 5, 19, 13, 68, 66, 64, 69, 67, 65",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2022-9-18"
+        "lottodate": "2022-9-19"
     },
     {
         "id": 7,
@@ -130,18 +130,18 @@
     {
         "id": 22,
         "name": "Brazil Quina",
-        "numbers": " 48, 68, 58, 47, 57, 65, 20, 24, 30, 3, 25, 1",
+        "numbers": " 20, 24, 30, 3, 25, 1, 48, 68, 58, 47, 57, 65",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2022-9-17"
+        "lottodate": "2022-9-19"
     },
     {
         "id": 28,
         "name": "Mexico Melate",
-        "numbers": " 4, 2, 14, 22, 7, 19, 27, 48, 30, 38, 44, 47, 55, 31, 37",
-        "reccomendation": " 'Reccomended to choose 1 Odds and rest of Evens'",
+        "numbers": " 4, 2, 14, 22, 7, 19, 27, 48, 30, 44, 47, 55, 31, 37",
+        "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2022-9-17"
+        "lottodate": "2022-9-19"
     },
     {
         "id": 12,

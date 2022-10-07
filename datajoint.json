@@ -2,18 +2,18 @@
     {
         "id": 20,
         "name": "German Keno",
-        "numbers": " 66, 64, 62, 67, 65, 63, 68, 4, 22, 69, 5, 19",
-        "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
+        "numbers": " 68, 66, 64, 69, 67, 65, 62, 54, 30, 46, 61, 37, 59",
+        "reccomendation": " 'Reccomended to choose 1 Odds and rest of Evens'",
         "extranumbers": "N/A",
-        "lottodate": "2022-10-5"
+        "lottodate": "2022-10-6"
     },
     {
         "id": 7,
         "name": "SuperEnaLotto",
-        "numbers": " 36, 34, 14, 23, 5, 9, 13, 50, 60, 64, 53, 59, 73",
+        "numbers": " 36, 34, 14, 23, 5, 9, 13, 50, 60, 64, 53, 73, 59, 67",
         "reccomendation": " 'Reccomended to choose 5 Evens and rest of Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2022-10-4"
+        "lottodate": "2022-10-6"
     },
     {
         "id": 3,
@@ -21,7 +21,7 @@
         "numbers": " 4, 34, 18, 29, 25, 33, 60, 66, 68, 65, 67, 69",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": " 7, 16, 22",
-        "lottodate": "2022-10-4"
+        "lottodate": "2022-10-6"
     },
     {
         "id": 8,
@@ -37,7 +37,7 @@
         "numbers": " 26, 22, 14, 21, 15, 3, 48, 60, 40, 55, 31, 57",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2022-10-1"
+        "lottodate": "2022-10-5"
     },
     {
         "id": 18,
@@ -53,7 +53,7 @@
         "numbers": " 12, 8, 2, 5, 11, 19, 48, 44, 40, 33, 47, 43",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2022-10-4"
+        "lottodate": "2022-10-6"
     },
     {
         "id": 15,
@@ -85,7 +85,7 @@
         "numbers": " 18, 10, 28, 30, 29, 17, 3, 54, 52, 32, 53, 33, 51, 59",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": " 4, 3",
-        "lottodate": "2022-10-5"
+        "lottodate": "2022-10-6"
     },
     {
         "id": 11,
@@ -93,7 +93,7 @@
         "numbers": " 20, 8, 18, 1, 17, 15, 38, 42, 34, 25, 29, 31",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2022-10-5"
+        "lottodate": "2022-10-6"
     },
     {
         "id": 25,
@@ -133,15 +133,15 @@
         "numbers": " 20, 24, 30, 3, 25, 1, 48, 68, 58, 47, 65, 57",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2022-10-4"
+        "lottodate": "2022-10-5"
     },
     {
         "id": 28,
         "name": "Mexico Melate",
-        "numbers": " 4, 2, 14, 22, 7, 19, 27, 48, 30, 44, 56, 47, 55, 37",
-        "reccomendation": " 'Reccomended to choose 2 Odds and rest of Evens'",
+        "numbers": " 4, 2, 22, 7, 19, 27, 48, 30, 44, 47, 55, 37",
+        "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2022-10-3"
+        "lottodate": "2022-10-6"
     },
     {
         "id": 12,

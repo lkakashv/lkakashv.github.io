@@ -61,7 +61,7 @@
         "numbers": " 28, 22, 42, 41, 35, 45, 6, 16, 58, 7, 17, 63",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2022-11-7 Time: 22:54"
+        "lottodate": "2022-11-9 Time: 22:54"
     },
     {
         "id": 29,
@@ -109,7 +109,7 @@
         "numbers": " 10, 12, 4, 11, 5, 23, 38, 30, 26, 39, 37, 29",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "12, 11, 2",
-        "lottodate": "2022-11-8 Time: 23:0"
+        "lottodate": "2022-11-9 Time: 23:0"
     },
     {
         "id": 1,
@@ -125,7 +125,7 @@
         "numbers": " 24, 6, 8, 1, 9, 21, 32, 40, 48, 47, 27, 33",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "2, 6, 4",
-        "lottodate": "2022-11-8 Time: 0:0"
+        "lottodate": "2022-11-10 Time: 0:0"
     },
     {
         "id": 22,
@@ -157,7 +157,7 @@
         "numbers": " 22, 6, 24, 17, 15, 25, 32, 44, 48, 43, 47, 29",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "4, 2, 10",
-        "lottodate": "2022-11-8 Time: 23:0"
+        "lottodate": "2022-11-10 Time: 0:0"
     },
     {
         "id": 27,
@@ -186,18 +186,18 @@
     {
         "id": 10,
         "name": "Keno 24|7",
-        "numbers": " 24, 10, 2, 11, 21, 37, 80, 42, 70, 41, 71, 61",
+        "numbers": " 42, 24, 54, 41, 37, 17, 80, 70, 10, 11, 71, 21",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2022-11-8 Time: 23:56"
+        "lottodate": "2022-11-10 Time: 0:0"
     },
     {
         "id": 24,
         "name": "Multi Keno",
-        "numbers": " 26, 8, 24, 3, 1, 17, 80, 54, 50, 49, 71, 79",
+        "numbers": " 26, 8, 24, 3, 71, 79, 30, 54, 50, 49, 51, 41",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2022-11-7 Time: 21:0"
+        "lottodate": "2022-11-9 Time: 21:0"
     },
     {
         "id": 4,

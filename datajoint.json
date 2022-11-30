@@ -5,15 +5,15 @@
         "numbers": " 22, 4, 30, 19, 5, 13, 68, 66, 64, 69, 67, 65",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2022-11-28"
+        "lottodate": "2022-11-29"
     },
     {
         "id": 7,
         "name": "SuperEnaLotto",
         "numbers": " 36, 34, 14, 23, 5, 9, 13, 50, 60, 64, 53, 73, 67",
-        "reccomendation": " 'Reccomended to choose 5 Evens and rest of Odds'",
+        "reccomendation": " 'Reccomended to choose 6 Evens and rest of Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2022-11-26"
+        "lottodate": "2022-11-29"
     },
     {
         "id": 3,
@@ -21,7 +21,7 @@
         "numbers": " 4, 34, 18, 29, 25, 33, 60, 66, 68, 65, 67, 69",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": " 7, 16, 22",
-        "lottodate": "2022-11-27"
+        "lottodate": "2022-11-29"
     },
     {
         "id": 8,
@@ -85,7 +85,7 @@
         "numbers": " 10, 28, 18, 30, 29, 17, 3, 54, 52, 50, 33, 51, 53",
         "reccomendation": " 'Reccomended to choose 1 Odds and rest of Evens'",
         "extranumbers": " 4, 3",
-        "lottodate": "2022-11-28"
+        "lottodate": "2022-11-29"
     },
     {
         "id": 11,
@@ -117,7 +117,7 @@
         "numbers": " 22, 8, 18, 9, 3, 11, 40, 46, 36, 41, 33, 47",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": " 12, 10, 4",
-        "lottodate": "2022-11-25"
+        "lottodate": "2022-11-29"
     },
     {
         "id": 9,
@@ -165,7 +165,7 @@
         "numbers": " 14, 2, 10, 22, 1, 23, 17, 26, 44, 30, 33, 37, 31",
         "reccomendation": " 'Reccomended to choose 1 Odds and rest of Evens'",
         "extranumbers": " 14, 19, 7",
-        "lottodate": "2022-11-25"
+        "lottodate": "2022-11-29"
     },
     {
         "id": 19,
@@ -205,7 +205,7 @@
         "numbers": " 34, 26, 8, 19, 23, 9, 15, 33, 72, 74, 70, 71, 75, 73",
         "reccomendation": " 'Reccomended to choose -3 Evens and rest of Odds'",
         "extranumbers": " 23, 16, 18",
-        "lottodate": "2022-11-26"
+        "lottodate": "2022-11-30"
     },
     {
         "id": 26,
@@ -221,6 +221,6 @@
         "numbers": " 2, 12, 8, 3, 5, 1, 13, 21, 23, 25, 48, 36, 28, 50, 27, 31, 37",
         "reccomendation": " 'Reccomended to choose 1 Evens and rest of Odds'",
         "extranumbers": " 11, 12, 10",
-        "lottodate": "2022-11-25"
+        "lottodate": "2022-11-29"
     }
 ]

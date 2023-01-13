@@ -5,7 +5,7 @@
         "numbers": " 22, 4, 30, 19, 5, 13, 68, 66, 64, 69, 67, 65",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2023-1-11"
+        "lottodate": "2023-1-12"
     },
     {
         "id": 7,
@@ -13,7 +13,7 @@
         "numbers": " 36, 14, 34, 23, 5, 13, 50, 60, 64, 53, 73, 59, 67",
         "reccomendation": " 'Reccomended to choose 5 Evens and rest of Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2023-1-10"
+        "lottodate": "2023-1-12"
     },
     {
         "id": 3,
@@ -21,7 +21,7 @@
         "numbers": " 4, 34, 18, 29, 25, 33, 60, 66, 68, 65, 67, 69",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": " 16, 7, 22",
-        "lottodate": "2023-1-10"
+        "lottodate": "2023-1-12"
     },
     {
         "id": 8,
@@ -53,7 +53,7 @@
         "numbers": " 12, 8, 22, 5, 11, 7, 48, 44, 26, 33, 43, 47",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2023-1-10"
+        "lottodate": "2023-1-12"
     },
     {
         "id": 15,
@@ -85,7 +85,7 @@
         "numbers": " 30, 28, 18, 29, 3, 17, 54, 52, 50, 51, 33, 53",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": " 4, 3",
-        "lottodate": "2023-1-11"
+        "lottodate": "2023-1-12"
     },
     {
         "id": 11,
@@ -93,7 +93,7 @@
         "numbers": " 20, 8, 18, 1, 17, 15, 38, 42, 40, 25, 29, 27",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2023-1-11"
+        "lottodate": "2023-1-12"
     },
     {
         "id": 25,
@@ -133,15 +133,15 @@
         "numbers": " 20, 24, 30, 3, 25, 1, 48, 68, 58, 47, 65, 57",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2023-1-11"
+        "lottodate": "2023-1-12"
     },
     {
         "id": 28,
         "name": "Mexico Melate",
-        "numbers": " 4, 2, 22, 7, 27, 19, 48, 44, 42, 56, 47, 55, 31",
-        "reccomendation": " 'Reccomended to choose 1 Odds and rest of Evens'",
+        "numbers": " 4, 2, 22, 7, 27, 19, 48, 44, 30, 42, 56, 47, 55, 31",
+        "reccomendation": " 'Reccomended to choose 2 Odds and rest of Evens'",
         "extranumbers": "N/A",
-        "lottodate": "2023-1-9"
+        "lottodate": "2023-1-12"
     },
     {
         "id": 12,
@@ -173,7 +173,7 @@
         "numbers": " 16, 20, 22, 13, 1, 7, 56, 50, 52, 51, 53, 57",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2023-1-7"
+        "lottodate": "2023-1-11"
     },
     {
         "id": 16,

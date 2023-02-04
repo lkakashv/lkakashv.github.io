@@ -5,7 +5,7 @@
         "numbers": " 22, 4, 30, 19, 5, 13, 68, 66, 64, 69, 67, 65",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2023-2-2"
+        "lottodate": "2023-2-3"
     },
     {
         "id": 7,
@@ -93,7 +93,7 @@
         "numbers": " 20, 8, 18, 1, 17, 15, 38, 42, 34, 40, 25, 29, 27",
         "reccomendation": " 'Reccomended to choose 1 Odds and rest of Evens'",
         "extranumbers": "N/A",
-        "lottodate": "2023-2-2"
+        "lottodate": "2023-2-3"
     },
     {
         "id": 25,
@@ -117,7 +117,7 @@
         "numbers": " 22, 8, 18, 9, 3, 7, 36, 40, 46, 41, 33, 47",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": " 12, 4, 10",
-        "lottodate": "2023-1-31"
+        "lottodate": "2023-2-3"
     },
     {
         "id": 9,
@@ -133,7 +133,7 @@
         "numbers": " 20, 30, 22, 24, 3, 25, 1, 48, 68, 58, 47, 65, 57",
         "reccomendation": " 'Reccomended to choose 1 Odds and rest of Evens'",
         "extranumbers": "N/A",
-        "lottodate": "2023-2-2"
+        "lottodate": "2023-2-3"
     },
     {
         "id": 28,
@@ -165,7 +165,7 @@
         "numbers": " 14, 2, 22, 1, 23, 17, 26, 44, 30, 33, 37, 31",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": " 19, 14, 10",
-        "lottodate": "2023-1-31"
+        "lottodate": "2023-2-3"
     },
     {
         "id": 19,
@@ -205,7 +205,7 @@
         "numbers": " 34, 26, 8, 19, 23, 9, 72, 74, 70, 71, 75, 73",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": " 23, 16, 18",
-        "lottodate": "2023-2-1"
+        "lottodate": "2023-2-4"
     },
     {
         "id": 26,
@@ -218,9 +218,9 @@
     {
         "id": 2,
         "name": "EuroJackpot",
-        "numbers": " 2, 12, 10, 22, 3, 5, 23, 48, 36, 28, 42, 50, 27, 45, 31",
-        "reccomendation": " 'Reccomended to choose 3 Odds and rest of Evens'",
+        "numbers": " 2, 12, 10, 22, 3, 5, 23, 48, 36, 28, 42, 27, 45, 31",
+        "reccomendation": " 'Reccomended to choose 2 Odds and rest of Evens'",
         "extranumbers": " 11, 12, 10",
-        "lottodate": "2023-1-31"
+        "lottodate": "2023-2-3"
     }
 ]

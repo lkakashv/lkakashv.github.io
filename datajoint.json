@@ -5,7 +5,7 @@
         "numbers": " 22, 4, 30, 19, 5, 23, 68, 66, 64, 69, 67, 65",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2023-2-20"
+        "lottodate": "2023-2-21"
     },
     {
         "id": 7,
@@ -13,7 +13,7 @@
         "numbers": " 36, 14, 34, 23, 5, 13, 50, 60, 64, 53, 73, 59",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2023-2-18"
+        "lottodate": "2023-2-21"
     },
     {
         "id": 3,
@@ -21,7 +21,7 @@
         "numbers": " 4, 34, 18, 29, 25, 33, 60, 66, 68, 65, 67, 69",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": " 16, 7, 22",
-        "lottodate": "2023-2-19"
+        "lottodate": "2023-2-21"
     },
     {
         "id": 8,
@@ -53,7 +53,7 @@
         "numbers": " 12, 8, 22, 5, 11, 7, 48, 44, 40, 33, 43, 47",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2023-2-18"
+        "lottodate": "2023-2-21"
     },
     {
         "id": 15,
@@ -93,7 +93,7 @@
         "numbers": " 20, 8, 18, 1, 17, 15, 38, 42, 34, 25, 29, 27",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2023-2-20"
+        "lottodate": "2023-2-21"
     },
     {
         "id": 25,
@@ -117,7 +117,7 @@
         "numbers": " 22, 18, 8, 9, 7, 1, 3, 11, 36, 40, 46, 41, 33, 47",
         "reccomendation": " 'Reccomended to choose 1 Evens and rest of Odds'",
         "extranumbers": " 12, 4, 10",
-        "lottodate": "2023-2-17"
+        "lottodate": "2023-2-21"
     },
     {
         "id": 9,
@@ -165,7 +165,7 @@
         "numbers": " 14, 2, 22, 1, 23, 17, 26, 44, 30, 33, 37, 31",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": " 14, 19, 10",
-        "lottodate": "2023-2-17"
+        "lottodate": "2023-2-21"
     },
     {
         "id": 19,
@@ -205,7 +205,7 @@
         "numbers": " 34, 26, 8, 19, 23, 9, 72, 74, 70, 71, 75, 73",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": " 23, 16, 18",
-        "lottodate": "2023-2-18"
+        "lottodate": "2023-2-22"
     },
     {
         "id": 26,
@@ -221,6 +221,6 @@
         "numbers": " 2, 12, 22, 3, 5, 23, 48, 36, 28, 27, 31, 45",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": " 11, 12, 10",
-        "lottodate": "2023-2-17"
+        "lottodate": "2023-2-21"
     }
 ]

@@ -2,10 +2,10 @@
     {
         "id": 20,
         "name": "German Keno",
-        "numbers": " 22, 30, 34, 19, 37, 35, 68, 66, 64, 69, 67, 65",
+        "numbers": " 68, 66, 64, 69, 67, 65, 22, 30, 54, 37, 35, 45",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2023-4-5"
+        "lottodate": "2023-4-6"
     },
     {
         "id": 7,
@@ -13,7 +13,7 @@
         "numbers": " 36, 14, 34, 23, 5, 13, 50, 60, 70, 53, 59, 67, 73",
         "reccomendation": " 'Reccomended to choose 5 Evens and rest of Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2023-4-4"
+        "lottodate": "2023-4-6"
     },
     {
         "id": 3,
@@ -21,7 +21,7 @@
         "numbers": " 4, 34, 18, 29, 25, 33, 60, 66, 68, 65, 67, 63",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": " 16, 7, 22",
-        "lottodate": "2023-4-4"
+        "lottodate": "2023-4-6"
     },
     {
         "id": 8,
@@ -34,10 +34,10 @@
     {
         "id": 23,
         "name": "Mega-Sena",
-        "numbers": " 26, 22, 14, 21, 15, 3, 48, 40, 60, 55, 31, 57",
-        "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
+        "numbers": " 26, 22, 14, 21, 15, 3, 7, 48, 40, 60, 55, 31, 57",
+        "reccomendation": " 'Reccomended to choose -1 Evens and rest of Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2023-4-1"
+        "lottodate": "2023-4-5"
     },
     {
         "id": 18,
@@ -53,7 +53,7 @@
         "numbers": " 12, 8, 22, 5, 11, 7, 48, 44, 26, 40, 33, 47, 35, 43",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2023-4-4"
+        "lottodate": "2023-4-6"
     },
     {
         "id": 15,
@@ -90,10 +90,10 @@
     {
         "id": 11,
         "name": "MINI Lotto",
-        "numbers": " 20, 8, 18, 1, 17, 15, 38, 42, 34, 29, 25, 27",
+        "numbers": " 20, 18, 8, 1, 17, 15, 38, 42, 34, 29, 25, 27",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2023-4-5"
+        "lottodate": "2023-4-6"
     },
     {
         "id": 25,
@@ -133,15 +133,15 @@
         "numbers": " 20, 30, 32, 3, 25, 1, 48, 68, 58, 47, 65, 57, 67",
         "reccomendation": " 'Reccomended to choose -3 Evens and rest of Odds'",
         "extranumbers": "N/A",
-        "lottodate": "2023-4-4"
+        "lottodate": "2023-4-5"
     },
     {
         "id": 28,
         "name": "Mexico Melate",
-        "numbers": " 4, 22, 2, 14, 16, 28, 7, 9, 27, 48, 44, 42, 47, 31, 37",
+        "numbers": " 4, 22, 2, 14, 16, 28, 7, 9, 27, 48, 44, 42, 47, 37, 31",
         "reccomendation": " 'Reccomended to choose 3 Odds and rest of Evens'",
         "extranumbers": "N/A",
-        "lottodate": "2023-4-3"
+        "lottodate": "2023-4-6"
     },
     {
         "id": 12,

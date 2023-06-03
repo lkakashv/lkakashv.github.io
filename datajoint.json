@@ -106,10 +106,10 @@
     {
         "id": 6,
         "name": "EuroJackpot GO!",
-        "numbers": " 4, 14, 18, 11, 19, 5, 30, 40, 26, 28, 39, 37, 47",
-        "reccomendation": " 'Reccomended to choose 1 Odds and rest of Evens'",
+        "numbers": " 4, 14, 18, 11, 19, 5, 30, 40, 28, 39, 37, 47",
+        "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "12, 11, 2",
-        "lottodate": "2023-6-1 Time: 22:0"
+        "lottodate": "2023-6-3 Time: 22:0"
     },
     {
         "id": 1,
@@ -122,10 +122,10 @@
     {
         "id": 9,
         "name": "6|49 GO!",
-        "numbers": " 24, 10, 6, 1, 5, 21, 32, 40, 48, 47, 27, 25",
+        "numbers": " 40, 48, 10, 47, 1, 5, 24, 32, 12, 21, 19, 15",
         "reccomendation": " 'Reccomended to choose equal ammount of Evens and Odds'",
         "extranumbers": "2, 6, 4",
-        "lottodate": "2023-6-2 Time: 23:0"
+        "lottodate": "2023-6-3 Time: 23:0"
     },
     {
         "id": 22,
